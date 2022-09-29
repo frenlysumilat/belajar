@@ -1,0 +1,21 @@
+.container-content1 {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 70vh;
+}
+
+.a-content1 {
+    color:black;
+    font-size: 2vh;
+    text-decoration: none;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-content1 {
+    width: 23vh;
+    height: 17vh;
+}
